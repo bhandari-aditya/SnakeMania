@@ -2,11 +2,10 @@
 let inputDir = { x: 0, y: 0 };
 <!--This Way Must let Repository Public-->
 <script>
-var audio = new Audio("https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/Audio.mp3");
-const foodSound = new Audio("https://raw.githubusercontent.com/bhandari-aditya/SnakeMania/main/music/food.mp3");
-const gameOverSound = new Audio("https://raw.githubusercontent.com/bhandari-aditya/SnakeMania/main/music/gameover.mp3");
-const moveSound = new Audio("https://raw.githubusercontent.com/bhandari-aditya/SnakeMania/main/music/move.mp3");
-const musicSound = new Audio("https://raw.githubusercontent.com/bhandari-aditya/SnakeMania/main/music/music.mp3");
+const foodSound = new Audio("https://bhandari-aditya.github.io/SnakeMania/main/music/food.mp3");
+const gameOverSound = new Audio("https://bhandari-aditya.github.io/SnakeMania/main/music/gameover.mp3");
+const moveSound = new Audio("https://bhandari-aditya.github.io/SnakeMania/main/music/move.mp3");
+const musicSound = new Audio("https://bhandari-aditya.github.io/SnakeMania/main/music/music.mp3");
 let speed = 5;
 let score = 0;
 let lastPaintTime = 0;

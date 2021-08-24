@@ -1,7 +1,5 @@
 //game constants & variables
 let inputDir = { x: 0, y: 0 };
-<!--This Way Must let Repository Public-->
-<script>
 const foodSound = new Audio("https://bhandari-aditya.github.io/SnakeMania/music/food.mp3");
 const gameOverSound = new Audio("https://bhandari-aditya.github.io/SnakeMania/music/gameover.mp3");
 const moveSound = new Audio("https://bhandari-aditya.github.io/SnakeMania/music/move.mp3");
